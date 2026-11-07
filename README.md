@@ -15,6 +15,7 @@
 | Kelvin Cruz Ribeiro | - |
 | Lucas Freitas | - |
 | Anderson Arruda | - |
+| Renan Oliveira 
 
 ## Modelos
 
