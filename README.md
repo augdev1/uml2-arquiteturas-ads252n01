@@ -5,16 +5,16 @@
 
 ## Equipe
 
-**Nome do time:** ____________________  
-**Modelo escolhido:** ___ (1 a 5)
+**Nome do time:** XT  
+**Modelo escolhido:** 4 : Marketplace com pagamento. 
 
 | Nome | Usuário do GitHub |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Augusto Sousa da Gama | @augdev1 |
+| Fábio Henrique | @fabyts68 |
+| Kelvin Cruz Ribeiro | - |
+| Lucas Freitas | - |
+| Anderson Arruda | - |
 
 ## Modelos
 
@@ -33,28 +33,4 @@ Cada modelo pode ser escolhido por **uma equipe só**. A descrição completa de
 1. Um integrante clica em **Fork** (canto superior direito) e depois em **Create fork**.
 2. No fork, em **Settings → Collaborators → Add people**, adicione os colegas.
 3. No fork, edite este README (lápis ✏️): nome do time, modelo escolhido e integrantes. Clique em **Commit changes**.
-4. Dividam o trabalho e comecem os requisitos em `docs/requisitos.md`.
-
-⚠️ Não editem o repositório do professor, só o fork da equipe.
-
-## O que entregar
-
-| Arquivo | Conteúdo |
-| --- | --- |
-| `README.md` | Equipe, modelo e **como rodar** o sistema (um comando) |
-| `docs/requisitos.md` | 5 requisitos funcionais e 3 não funcionais |
-| `docs/arquitetura.png` | Diagrama da arquitetura |
-| `docs/sequencia.png` | Diagrama de sequência do fluxo principal |
-| `LOGS.md` | Logs do fluxo principal, copiados do terminal |
-| `docker-compose.yml` | Ou um script de execução descrito neste README |
-| `servicos/` | Uma pasta por componente |
-
-**Cada integrante deve ter pelo menos 3 commits** com mensagens claras.
-
-## Como rodar
-
-(A equipe preenche: o comando para subir o sistema e como executar o fluxo principal.)
-
-## Entrega
-
-No fork, clique em **Contribute → Open pull request**, preencha o modelo que aparece e clique em **Create pull request**. Um Pull Request por equipe. Cada novo `git push` no fork atualiza o mesmo Pull Request até o prazo.
+4. Dividam o trabalho e comecem os requisitos em `docs/`.
